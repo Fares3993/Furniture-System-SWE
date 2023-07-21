@@ -1,0 +1,20 @@
+create or replace PROCEDURE getProductID
+(CID out sys_refcursor)
+as
+BEGIN
+OPEN CID for
+SELECT productid
+from products;
+end;
+
+create or replace procedure getProductQuantity
+(Produt_ID in NUMBER,user_ID in NUMBER,product_quantity OUT NUMBER )
+as
+BEGIN
+select cd.quantity
+into product_quantity
+from user_carte uc, cartedata cd
+where uc.carteid = cd.carteid
+and cd.productid = produt_id
+and uc.userid = user_id;
+end;
