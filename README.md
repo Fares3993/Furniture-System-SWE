@@ -4,6 +4,7 @@ The Furniture Store Management System is a C# and ODP.Net application designed t
 
 ## 1. Software Requirements Specification (SRS) Analysis:
    **- Introduction:** This section provides an overview of the furniture store management system, outlining its purpose and objectives.
+   
    **- Context Diagram:** A visual representation of the system's interactions with external entities, illustrating how the system interacts with customers, products, and other external components.
    **- User Requirements:** The requirements specified by users or stakeholders, detailing what functionalities and features the system should possess to meet their needs.
    **- Functional Requirements:** Detailed descriptions of the system's functionalities, specifying how it should perform various tasks, such as user search, order management, and product information retrieval.
