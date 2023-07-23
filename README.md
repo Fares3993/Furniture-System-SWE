@@ -53,3 +53,9 @@ The Furniture Store Management System is a C# and ODP.Net application designed t
 <hr>
 
 #### The Furniture Store Management System aims to streamline and automate the various tasks involved in managing a furniture store. With its user-friendly interfaces, database management capabilities, and reporting functionalities, the system enhances the overall efficiency, accuracy, and productivity of the store's operations. Users can easily search for product and customer information, track orders, and generate reports, providing a comprehensive solution to manage day-to-day activities in the furniture store effectively.
+
+### created by a team of 4 students: 
+* Fares Ahmed
+* Eman Ragab
+* Abdelaziz Gamal
+* Abdelrahman Amro
