@@ -240,3 +240,37 @@ D:\C\desk top\New folder (2)\fares software\Furniture System Project (SWE)\softw
 D:\C\desk top\New folder (2)\fares software\Furniture System Project (SWE)\software Project\databaseform\obj\Debug\databaseform.csproj.CopyComplete
 D:\C\desk top\New folder (2)\fares software\Furniture System Project (SWE)\software Project\databaseform\obj\Debug\databaseform.exe
 D:\C\desk top\New folder (2)\fares software\Furniture System Project (SWE)\software Project\databaseform\obj\Debug\databaseform.pdb
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\databaseform.exe.config
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\databaseform.exe
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\databaseform.pdb
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\Oracle.DataAccess.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\ShockwaveFlashObjects.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\stdole.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.csproj.AssemblyReference.cache
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.Form1.resources
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.Form2.resources
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.Form3.resources
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.Form4.resources
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.Properties.Resources.resources
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.csproj.GenerateResource.cache
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.csproj.CoreCompileInputs.cache
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.csproj.CopyComplete
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.exe
+D:\Study\Github Projects\Furniture-System-SWE-\software Project\databaseform\obj\Debug\databaseform.pdb
