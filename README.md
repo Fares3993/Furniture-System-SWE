@@ -59,3 +59,14 @@ The Furniture Store Management System is a C# and ODP.Net application designed t
 * Eman Ragab
 * Abdelaziz Gamal
 * Abdelrahman Amro
+
+## Some Screenshots:
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/e2bac518-f208-4bdc-8011-acacd22d601f">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/ddafe360-6ada-46fe-b419-3b162ce52278">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/e3df3617-d7ed-4f35-acab-36e71e3328dc">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/657c40bc-3d67-47d4-a189-4c1d10a86fb7">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/d606cc21-7af2-4fa1-9652-19f2a8b7f721">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/ca468abf-a37a-43b4-b62e-822ee158118f">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/41943ca8-fbee-43bf-b13e-3de8862fc0a5">
+<img src = "https://github.com/Fares3993/Furniture-System-SWE/assets/84674642/d31a95d4-10f3-47b1-8971-77b58381f615">
+
